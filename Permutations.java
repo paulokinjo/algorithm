@@ -1,4 +1,3 @@
-import java.util.*;
 class Permutations {
     public static void main(String args[] ) throws Exception {
       permutations("", "ABC");        
